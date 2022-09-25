@@ -1,0 +1,8 @@
+C:\Users\DarkB\source\repos\ConsoleApp1\ClassMethodDemo\bin\Debug\ClassMethodDemo.exe.config
+C:\Users\DarkB\source\repos\ConsoleApp1\ClassMethodDemo\bin\Debug\ClassMethodDemo.exe
+C:\Users\DarkB\source\repos\ConsoleApp1\ClassMethodDemo\bin\Debug\ClassMethodDemo.pdb
+C:\Users\DarkB\source\repos\ConsoleApp1\ClassMethodDemo\obj\Debug\ClassMethodDemo.csproj.AssemblyReference.cache
+C:\Users\DarkB\source\repos\ConsoleApp1\ClassMethodDemo\obj\Debug\ClassMethodDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DarkB\source\repos\ConsoleApp1\ClassMethodDemo\obj\Debug\ClassMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\DarkB\source\repos\ConsoleApp1\ClassMethodDemo\obj\Debug\ClassMethodDemo.exe
+C:\Users\DarkB\source\repos\ConsoleApp1\ClassMethodDemo\obj\Debug\ClassMethodDemo.pdb
